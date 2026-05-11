@@ -1,0 +1,8 @@
+Objetivo 1: Aprender JavaScript
+    En mi trabajo actual podria ser mas valioso y tener mas oportunidades si dominara el lenguaje de programacion de JavaScript.
+
+Objetivo 2: Dominar el maquetado de paginas con HTML y CSS
+    El maquetado con HTML y CSS, no solamente lo usaria para el desarrollo de soluciones web, sino que en mis actividades hay varias herramientas en las que necesito usar HTML y CSS para la interfaz con la que interactuan los usuarios, ahora mismo mi habilidad es reguar con ellos pero la realidad es que quiero dominar el tema.
+
+Objetivo 3: Aprender a hacer aplicaciones web 
+    Usar todas las herramientas que aprendere en el master para poder hacer mis propias aplicaciones web desde 0 en mi trabajo
