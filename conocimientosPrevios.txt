@@ -1,0 +1,5 @@
+1 SQL
+    SQL es el lenguaje que mas utilizo todos los dias, como mi trabajo de especialista de datos tengo un nivel de SQL muy alto que aprendi yo mismo
+
+2 Python
+    He usado python muchas veces para procesamiento de informacion en los ETLs que desarrollo para el flujo de datos en mi trabajo
